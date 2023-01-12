@@ -171,7 +171,7 @@
     "swagger-ui-dist": "^3.36.2",
     "text-encoder-lite": "2.0.0",
     "walk-sync": "^2.0.2",
-    "xstate": "^3.3.3"
+    "xstate": "^4.35.1"
   },
   "optionalDependencies": {
     "@babel/core": "^7.12.3",
